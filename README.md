@@ -3,6 +3,12 @@
 ## Overview
 The **RAG-based PDF Reader** is a Java-based PDF viewer integrated with Python for advanced document processing. This project combines the power of **Java Swing** for user-friendly interface design and **Python** for efficient PDF content extraction and AI-powered text retrieval using **Retrieval-Augmented Generation (RAG)**.
 
+Watch this Video for application interface reference
+
+
+https://github.com/user-attachments/assets/538d482a-db99-4cc7-9e8b-15f9e124d30c
+
+
 ## Key Features
 - **PDF Viewing**: A fully functional PDF viewer built using Java Swing for smooth user interaction.
 - **AI-powered Summarization**: Integrates Python for content extraction and text summarization based on user queries.
