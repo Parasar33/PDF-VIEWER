@@ -47,4 +47,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Retrieval-Augmented Generation (RAG)**: For future AI-powered document summarization.
 
 ## Contact
-For any inquiries or feedback, feel free to reach out via GitHub issues or email at your-email@example.com.
+For any inquiries or feedback, feel free to reach out via GitHub issues or email at rishavparasar2004@gmail.com.
